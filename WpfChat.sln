@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfChat.Client", "WpfChat\WpfChat.Client.csproj", "{47081C76-CF42-4BFE-8AAF-920178CE4CF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfChatClient", "WpfChat\WpfChatClient.csproj", "{47081C76-CF42-4BFE-8AAF-920178CE4CF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfChat.Server", "WpfChat.Server\WpfChat.Server.csproj", "{505BBF0A-5E86-4EE1-8FB0-A49B7A91311D}"
 EndProject
