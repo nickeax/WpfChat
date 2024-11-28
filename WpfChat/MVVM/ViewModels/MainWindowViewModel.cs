@@ -1,7 +1,7 @@
 ﻿using WpfChat.Client.MVVM.Core;
 using WpfChat.Client.Net;
 
-namespace WpfChatClient.MVVM.ViewModels;
+namespace WpfChat.Client.MVVM.ViewModels;
 public class MainWindowViewModel
 {
     public RelayCommand ConnectToServerCommand { get; set; }
